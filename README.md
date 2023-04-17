@@ -1,6 +1,6 @@
 # Arithmetik-endlicher-Koerper
 <br>
-Das Programm zur Studienarbeit Arithmetik-endlicher-Körper
+Das Programm zur Studienarbeit Arithmetik-endlicher-Körper.
 Der Nutzer kann die Funktionen im "Hauptprogramm.ipynb" aufrufen.
 <br>
 Die Funktionen sind in den einzelnen Notebooks erklärt.
